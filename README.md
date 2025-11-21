@@ -79,6 +79,7 @@
      <td>
         <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-bacellar&layout=donut&count_private=true&show_icons=true&theme=github_dark"/>
       </a>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedro-bacellar&count_private=true&show_icons=true&theme=github_dark"/>
     </td>
 
   </tr>
